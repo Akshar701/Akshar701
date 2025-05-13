@@ -43,9 +43,8 @@
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Akshar701&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://streak-stats.demolab.com/?user=Akshar701&theme=tokyonight" alt="Akshar's GitHub Streak" />
 </p>
-
 ---
 
 ### 🏆 GitHub Trophies
