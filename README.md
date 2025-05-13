@@ -1,4 +1,4 @@
-<!-- GitHub Profile README.md with Animations -->
+<!-- GitHub Profile README.md - Akshar Jain -->
 
 <h1 align="center">
   Hi there, I'm Akshar Jain <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
@@ -40,10 +40,34 @@
 
 ---
 
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshar701&theme=tokyonight" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Akshar701&theme=onedark&row=1&margin-w=15" />
+</p>
+
+---
+
+### 👁️ Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Akshar701&style=flat-square&color=blue" />
+</p>
+
+---
+
 ### 🧠 Currently Learning
 
-- ✅ CNNs for regression tasks
-- ✅ Hyperparameter tuning with **Optuna**
+- ✅ CNNs for regression tasks  
+- ✅ Hyperparameter tuning with **Optuna**  
 - ✅ Data visualization with **Seaborn & Plotly**
 
 ---
